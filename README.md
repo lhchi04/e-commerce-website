@@ -2,6 +2,12 @@
 
 This is a full-stack e-commerce website developed to provide a seamless online shopping experience. The project is divided into three key parts: Frontend, Backend, and Admin. Each part has its own repository for better management and scalability.
 
+## Repositories
+
+- **Frontend**: [Frontend Repo]((https://github.com/lhchi04/e-commerce-website-frontend))
+- **Backend**: [Backend Repo]((https://github.com/lhchi04/e-commerce-website-backend))
+- **Admin**: [Admin Repo]((https://github.com/lhchi04/e-commerce-website-admin))
+
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -10,7 +16,6 @@ This is a full-stack e-commerce website developed to provide a seamless online s
 4. [Backend](#backend)
 5. [Admin](#admin)
 6. [Deployment](#deployment)
-7. [License](#license)
 
 ---
 
@@ -58,9 +63,3 @@ You can find the admin code [here](https://github.com/lhchi04/e-commerce-website
 ## Deployment
 
 This project is deployed using Render, ensuring high availability and performance. The platform is continuously updated for scalability and security. You can access the live demo at [Demo Link](https://e-commerce-website-admin.onrender.com).
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
