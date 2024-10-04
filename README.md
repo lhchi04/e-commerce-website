@@ -4,9 +4,9 @@ This is a full-stack e-commerce website developed to provide a seamless online s
 
 ## Repositories
 
-- **Frontend**: [Frontend Repo]((https://github.com/lhchi04/e-commerce-website-frontend))
-- **Backend**: [Backend Repo]((https://github.com/lhchi04/e-commerce-website-backend))
-- **Admin**: [Admin Repo]((https://github.com/lhchi04/e-commerce-website-admin))
+- **Frontend**: [Frontend Repo](https://github.com/lhchi04/e-commerce-website-frontend)
+- **Backend**: [Backend Repo](https://github.com/lhchi04/e-commerce-website-backend)
+- **Admin**: [Admin Repo](https://github.com/lhchi04/e-commerce-website-admin)
 
 ## Table of Contents
 
